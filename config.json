@@ -1,0 +1,13 @@
+{
+  "num_games": 2,
+  "games": ["SMB","KI"],
+  "orientation": ["C","R"],
+  "blend": "generic",
+  "weighted": 0,
+  "seed": 0,
+  "weights": [0.2, 0.8],
+  "size": 200,
+  "segment_size": 20,
+  "iterations": [100,100]
+
+}
